@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 This project is a movie recommendation system built with Streamlit and powered by a machine learning model. It recommends movies based on a selected title using cosine similarity and displays movie posters fetched from the TMDB API.
->YouTube tutorial [HERE](https://youtu.be/i-B_I2DGIAI)
+
 
 >Dataset is [HERE](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
@@ -16,8 +16,8 @@ This project is a movie recommendation system built with Streamlit and powered b
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Overview
 
@@ -81,10 +81,4 @@ The system provides the top 10 recommended movies for any selected movie title. 
 
 ![Screenshot 2024-07-12 103743](https://github.com/user-attachments/assets/fbc357a1-a6e6-472a-892b-95fe96767743)
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
